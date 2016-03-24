@@ -1,0 +1,2 @@
+LIBRARY "../x64/Debug/caffe_d.mexw64"
+EXPORTS mexFunction
